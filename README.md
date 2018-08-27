@@ -1,2 +1,2 @@
 # fifthrepos
-Session 5 merging with conflicts
+This project is to illustrate the mergin conflics with multiple developers.
