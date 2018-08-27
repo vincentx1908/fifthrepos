@@ -1,2 +1,2 @@
 # fifthrepos
-This project is to illustrate the mergin conflics with multiple developers.
+This project is to illustrate the merging conflics with multiple developers.
